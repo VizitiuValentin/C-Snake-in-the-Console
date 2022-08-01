@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1639905309 source:c:\users\hog4m\desktop\codeblocks\the-grand-game\main.c
+	"headers.h"
+
+1639144950 source:c:\users\hog4m\desktop\codeblocks\the-grand-game\color_functions.c
+
+1639902351 source:c:\users\hog4m\desktop\codeblocks\the-grand-game\other_functions.c
+	"headers.h"
+
+1639902351 c:\users\hog4m\desktop\codeblocks\the-grand-game\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1641828733 source:c:\users\hog4m\desktop\snake_console\main.c
+	"headers.h"
+
+1641828695 c:\users\hog4m\desktop\snake_console\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1641828162 source:c:\users\hog4m\desktop\snake_console\other_functions.c
+	"headers.h"
+
+1641828162 c:\users\hog4m\desktop\snake_console\other_functions.c
+	"headers.h"
+
